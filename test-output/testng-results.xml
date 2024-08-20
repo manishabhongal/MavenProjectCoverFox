@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser is launching..]]>
+    </line>
+    <line>
+      <![CDATA[waiting.......]]>
+    </line>
+    <line>
+      <![CDATA[clicking on female button on homepage]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button of health page]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Handleing ageDropDown]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button of MemberDetailsPage]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Entering pinCode]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobileNumber]]>
+    </line>
+    <line>
+      <![CDATA[clicking on continue button on addressDetails page]]>
+    </line>
+    <line>
+      <![CDATA[Test Case validateBanners execution started]]>
+    </line>
+    <line>
+      <![CDATA[getting planNumber from string]]>
+    </line>
+    <line>
+      <![CDATA[getting planNumber From Banners]]>
+    </line>
+    <line>
+      <![CDATA[Test Case validateBanners executed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Case validatePresenceOfFilterDropdown execution started]]>
+    </line>
+    <line>
+      <![CDATA[verifying FilterDropdown IsDisplayed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case validatePresenceOfFilterDropdown executed successfully]]>
+    </line>
+    <line>
+      <![CDATA[closing browser..]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-19T13:02:59 IST" name="Suite" finished-at="2024-08-19T13:04:11 IST" duration-ms="72527">
+    <groups>
+    </groups>
+    <test started-at="2024-08-19T13:02:59 IST" name="Test" finished-at="2024-08-19T13:04:11 IST" duration-ms="72527">
+      <class name="coverFoxTest.CoverFoxTC1">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CoverFoxTC1@2de56eb2]" started-at="2024-08-19T13:02:59 IST" name="launchBrowser" finished-at="2024-08-19T13:03:51 IST" duration-ms="52451" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is launching..]]>
+            </line>
+            <line>
+              <![CDATA[waiting.......]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:coverFoxTest.CoverFoxTC1@2de56eb2]" started-at="2024-08-19T13:03:51 IST" name="preConditions" finished-at="2024-08-19T13:04:02 IST" duration-ms="10592" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on female button on homepage]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button of health page]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Handleing ageDropDown]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button of MemberDetailsPage]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Entering pinCode]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobileNumber]]>
+            </line>
+            <line>
+              <![CDATA[clicking on continue button on addressDetails page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method signature="validateBanners()[pri:0, instance:coverFoxTest.CoverFoxTC1@2de56eb2]" started-at="2024-08-19T13:04:02 IST" name="validateBanners" finished-at="2024-08-19T13:04:06 IST" duration-ms="4148" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case validateBanners execution started]]>
+            </line>
+            <line>
+              <![CDATA[getting planNumber from string]]>
+            </line>
+            <line>
+              <![CDATA[getting planNumber From Banners]]>
+            </line>
+            <line>
+              <![CDATA[Test Case validateBanners executed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateBanners -->
+        <test-method signature="validatePresenceOfFilterDropdown()[pri:0, instance:coverFoxTest.CoverFoxTC1@2de56eb2]" started-at="2024-08-19T13:04:06 IST" name="validatePresenceOfFilterDropdown" finished-at="2024-08-19T13:04:10 IST" duration-ms="4099" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case validatePresenceOfFilterDropdown execution started]]>
+            </line>
+            <line>
+              <![CDATA[verifying FilterDropdown IsDisplayed]]>
+            </line>
+            <line>
+              <![CDATA[Test Case validatePresenceOfFilterDropdown executed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatePresenceOfFilterDropdown -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest.CoverFoxTC1@2de56eb2]" started-at="2024-08-19T13:04:10 IST" name="closeBrowser" finished-at="2024-08-19T13:04:11 IST" duration-ms="1148" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- coverFoxTest.CoverFoxTC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
