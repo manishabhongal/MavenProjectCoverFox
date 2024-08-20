@@ -112,6 +112,7 @@ public class CoverFoxTC1 extends Base {
 		Assert.assertTrue(resultsPage.verifyFilterDropdownIsDisplayed(),
 				"FilterDropdown is not displayed on result page,TC is failed");
 		// Utility.takeScreenShot(driver, "validatePresenceOfFilterDropdown");
+		
 	}
 
 	@AfterClass
